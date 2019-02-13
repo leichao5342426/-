@@ -1,0 +1,17 @@
+1.默写
+文件上传需要的jar包
+commons-fileupload.jar
+commons-io.jar
+
+必须使用表单提交，提交类型为post 加入属性 enctype="multipart/form-data"
+
+文件表单：<input type="file" />
+
+2.默写
+jsp作用域     el表达式作用域
+page          pageScope
+request       requestScope
+session       sessionScope
+application   applicationScope
+
+
